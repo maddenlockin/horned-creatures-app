@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  background-color: rgb(214, 241, 253);
+}
+
+.header {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.whole-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 80%;
+  margin: auto;
+  
+}
+
+.animal-item {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  border: rgb(211, 209, 209) 1px solid;
+  border-radius: 15px;
+  background-color: honeydew;
+}
+.rendered-animal {
+  width: 100%;
+}

@@ -11,7 +11,7 @@ export const images = [
         url:
             "https://images.unsplash.com/photo-1512636618879-bbe79107e9e3?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bd9460ee6d1ddbb6b1ca7be86dfc4590&auto=format&fit=crop&w=1825&q=80",
         title: "Rhino Family",
-        description: "Mother (or father) rhino with two babies",
+        description: "Parent rhino with two babies",
         keyword: "rhino",
         horns: 2
     },
@@ -68,7 +68,7 @@ export const images = [
         url:
             "https://ae01.alicdn.com/kf/HTB18GwSQVXXXXaZaXXXq6xXFXXXh/Animal-Cosplay-Costume-Narwhal-Onesie-Mens-Womens-Cartoon-Whale-Pajamas.jpg",
         title: "Narwhal costume",
-        description: "A woman wearing a blue narwhal costume",
+        description: "A person wearing a blue narwhal costume",
         keyword: "narwhal",
         horns: 1
     },
@@ -105,14 +105,14 @@ export const images = [
     },
     {
         url:
-            "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/28476658_9c97f35096_o.jpg",
+            "https://www.animalspot.net/wp-content/uploads/2019/02/Mouflon-Sheep.jpg",
         title: "Mouflon",
         description: "Those horns though",
         keyword: "mouflon",
         horns: 2
     },
     {
-        url: "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/addax.jpg",
+        url: "https://i.pinimg.com/originals/14/0c/55/140c559d8a23442f622aa652aed170af.jpg",
         title: "Addax",
         description:
             "This guy is basically extinct but survives well in captivity, so they're frequently found in zoos",
@@ -129,7 +129,7 @@ export const images = [
     },
     {
         url:
-            "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/chameleon.jpg",
+            "http://www.chameleoncaremanual.com/images/jackson-chameleon.jpg",
         title: "Happy Jackson's Chameleon",
         description: "These are really common in Hawaii",
         keyword: "chameleon",
